@@ -1,4 +1,4 @@
-# Student Management System (Console-Based)
+# Student Management System
 
 A simple and intuitive **Console-Based Student Management System** developed in **C#** using **.NET SDK 7.0**. This application allows you to manage student records, including creating, updating, deleting students, assigning courses, entering marks, calculating GPA, and viewing available courses and departments. The system connects to a **Microsoft SQL Server (SQL Express 2022)** database.
 
