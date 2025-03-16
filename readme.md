@@ -1,6 +1,3 @@
-Sure! Here's a cleaned-up, well-structured `README.md` based on the details you provided. I’ve organized it with clear sections and added some formatting to make it more readable and professional.
-
-```markdown
 # Student Management System (Console-Based)
 
 A simple and intuitive **Console-Based Student Management System** developed in **C#** using **.NET SDK 7.0**. This application allows you to manage student records, including creating, updating, deleting students, assigning courses, entering marks, calculating GPA, and viewing available courses and departments. The system connects to a **Microsoft SQL Server (SQL Express 2022)** database.
